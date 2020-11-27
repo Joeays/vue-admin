@@ -1,5 +1,5 @@
 # vueAdmin
-[![](https://img.shields.io/badge/Powered%20by-pas-brightgreen)](https://github.com/Joeays/vue-admin)
+[![](https://img.shields.io/badge/Powered%20by-vueAdmin-brightgreen)](https://github.com/Joeays/vue-admin)
 [![build](https://img.shields.io/badge/build--passing-brightgreen)](https://github.com/Joeays/vue-admin)
 [![npm](https://img.shields.io/badge/npm-6.14.4-cb0000)](https://github.com/Joeays/vue-admin)
 [![node](https://img.shields.io/badge/node-12.17.0-026e00)](https://github.com/Joeays/vue-admin)
